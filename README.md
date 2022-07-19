@@ -1,5 +1,5 @@
 - 👋 Hi, it's me, Mario!
 - 👀 I’m interested in projects (small or big) to collaborate on and increase my coding proficiency and architecting skills!
-- 🌱 I’m currently learning C#, Java and Python, and all the cool features .NET Core, Spring and Django offers.
+- 🌱 I’m currently learning Angular, Typescript and Python, and all the cool features of .NET 6.
 - 💞️ I’m also looking to collaborate on projects that involves coding in the cloud (Azure, AWS, GCP, you name it).
 - 📫 leitondev93@gmail.com <OR> mleitonr@ucenfotec.ac.cr
